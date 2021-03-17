@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Rules from './components/rules/rules'
+import Body from './components/body/Body'
 import './components/assets/css/layoute24b.css'
 import './components/assets/css/maine24b.css'
 function App() {
   return (
     <div className="App">
- <Rules/>
+ <Body/>
     </div>
   );
 }
